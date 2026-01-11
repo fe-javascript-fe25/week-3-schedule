@@ -35,6 +35,6 @@ Under den andra veckan fortsätter vi att bygga vidare på våra grundläggande 
 
 ### Övningar
 
-* [JS Array Bootcamp]()
-* [JS Object Bootcamp]()
+* [JS Array Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-array-bootcamp)
+* [JS Object Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-object-bootcamp?tab=readme-ov-file)
 * [Tic Tac Toe]() - Veckans Code Review-uppgift
