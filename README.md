@@ -38,3 +38,4 @@ Under den andra veckan fortsätter vi att bygga vidare på våra grundläggande 
 * [JS Array Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-array-bootcamp)
 * [JS Object Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-object-bootcamp?tab=readme-ov-file)
 * [Tic Tac Toe](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - Veckans Code Review-uppgift
+* Bonusuppgift [Airbean Produktsida]()
