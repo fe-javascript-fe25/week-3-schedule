@@ -20,6 +20,8 @@ Under den andra veckan fortsätter vi att bygga vidare på våra grundläggande 
 
 ### Inspelade föreläsningar
 
+* [Arrayer & Objekt, del 1 - 12 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQB_ZUESfK_IQIsaUZvJfhJLAXRVBWw8AKvb66X1h1FUzK0?e=zRCZk3)
+* [Arrayer & Objekt, del 2 - 12 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQBs_mmex-wSQL67dL3Y_WofAQjF3pHhCAmkELjM0Vzt_Xc?e=MAw8MS)
 
 ### Lektionsrepon
 
@@ -38,4 +40,3 @@ Under den andra veckan fortsätter vi att bygga vidare på våra grundläggande 
 * [JS Array Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-array-bootcamp)
 * [JS Object Bootcamp](https://github.com/fe-javascript-fe25/week-3-exercise-object-bootcamp?tab=readme-ov-file)
 * [Tic Tac Toe](https://github.com/fe-javascript-fe25/exercise-code-review-tic-tac-toe) - Veckans Code Review-uppgift
-* Bonusuppgift [Airbean Produktsida]()
