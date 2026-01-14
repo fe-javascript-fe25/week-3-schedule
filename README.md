@@ -26,9 +26,11 @@ Under den andra veckan fortsätter vi att bygga vidare på våra grundläggande 
 ### Lektionsrepon
 
 * [12 jan](https://github.com/fe-javascript-fe25/week-3-lecture-12-jan)
+* [14 jan](https://github.com/fe-javascript-fe25/week-3-lecture-14-jan)
 
 ### Filmer
 
+* [Git Flow](https://vimeo.com/906686286/9a91ea5b62?share=copy&fl=cl&fe=ci)
   
 ### Länkar
 
